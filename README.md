@@ -8,6 +8,8 @@
 
 ルート・フォルダに情報取得結果ファイル result.txt が出力されます。
 
+[情報取得結果ファイルの例](https://raw.githubusercontent.com/tenpoku1000/UEFI_Start/master/result.txt)
+
 ## 開発環境
 
 * Visual Studio Community 2015 + Windows SDK for Windows 10
