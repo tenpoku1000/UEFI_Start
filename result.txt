@@ -1,0 +1,8 @@
+DevicePath: PciRoot(0)/Pci(0x1D,0x0)/Usb(0x0,0x0)/Usb(0x1,0x0)/HD(Part1,SigD77362B3)
+
+Read the message from a file: UCS-2 TEST TEXT.
+
+Error message example: EFI_SUCCESS:The operation completed successfully.
+
+When you press any key, the system will reboot.
+
